@@ -1,2 +1,8 @@
 # BellmanGradientIteration
-Bellman Gradient Iteration for Inverse Reinforcement Learning
+Code for the methods in
+
+"Inverse Reinforcement Learning via Bellman Gradient Iteration"
+
+and
+
+"Oneline Inverse Reinforcement Learning via Bellman Gradient Iteration"
